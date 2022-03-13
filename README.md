@@ -5,7 +5,9 @@ This API is for a social network where users can post their thoughts, react to f
 Here videos showing how the application works.
 
 [User walkthrough](https://drive.google.com/file/d/10enZxbmEYK-UUBR7TISLbXx92mYeF_wA/view)
+
 [Thoughts walkthrough](https://drive.google.com/file/d/16qsD0YFvt2OjtlZUerdqrK8U-HnqDzrz/view)
+
 [Friend and Reaction walkthrough](https://drive.google.com/file/d/1oVocKwhafT9GEJSPUQEEIEkA6PkwlPHc/view)
 
 
